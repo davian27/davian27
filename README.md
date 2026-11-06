@@ -37,15 +37,17 @@ interested in technology, programming, and innovation.
 | Smart Incinerator | Automatic combustion control |
 | Smart Laboratory LMS | Laravel-based learning management system |
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=davian27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=davian27&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davian27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davian27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
+
 
 ---
 
