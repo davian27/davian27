@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0891B2&height=200&section=header&text=DAVIAN&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Developer&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0891B2&height=200&section=header&text=Dapina&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Developer&descAlignY=58&descSize=17" width="100%"/>
 
 ### Building Technology Through Engineering & Code
 
